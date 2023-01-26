@@ -1,0 +1,74 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #99ccff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ffff66;
+}
+
+
+#titulo{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px black;
+  text-align: center;
+   margin: 5%
+   margin-top:1%;
+   margin-left: 5%;
+  margin-right:5%;
+
+}
+#deporte2
+{
+  float: center;
+
+}
+#deporte3
+{
+  float: center;
+
+}
+#deporte4
+{
+  float: center;
+
+}
+#tabla{
+
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 90px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+#texto
+{
+  color: black;
+  
+}
+#link {
+  color: black;
+}
